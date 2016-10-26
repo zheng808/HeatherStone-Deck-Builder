@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HeatherStone Deck Builder</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Card Name</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="cardImage">card</string>
+    <string name="card_set">Classic</string>
+    <string name="title_activity_display_card_set">DisplayCardSet</string>
+</resources>
